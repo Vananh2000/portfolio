@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="color:pink;
+font-family:arial;
+text-align:center;">Welcome To My Homepage<p style="color:#5DADE2;
+font-family: wildwest;
+text-align:center;
+font-size: 100%;">Hello! My name is Van Anh Le</p></h1>
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float:left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}
+</style>
+
+<ul>
+  <li><a href="news.html"  target="_blank">News</a></li>
+  <li><a href="#contact"  target="_blank">Contact</a></li>
+  <li><a href="#about me"  target="_blank">About</a></li>
+</ul>
+
+
+
+  <p><img src="http://img.wennermedia.com/social/rs-231623-R1257_FOB_1975_A.jpg" alt="HTML5 Icon" style="width:50%;height:50;"></p>
+  <p><img src="http://static.tumblr.com/8b22d5bded3242241f8fe87fba9c5eb0/hbyuacf/cW4nxnjkr/tumblr_static_dxwt89ox6yo0wcs0wswcwo0kc.jpg" alt="HTML5 Icon" style="width:50%;height:50;"></p>
+  <p><img src="http://www.billboard.com/files/styles/900_wide/public/media/fifth-harmony-bonus-photo-bb13-2016-billboard-1000.jpg" alt="HTML5 Icon" style="width:50%;height:50;"></p>
+</body>
+</html>
